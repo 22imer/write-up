@@ -1,0 +1,1 @@
+Đọc hxd của file chall.jpg ta thấy được 
