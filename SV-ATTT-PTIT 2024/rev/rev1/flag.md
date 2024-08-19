@@ -1,0 +1,1 @@
+ta mở file bằng ida
